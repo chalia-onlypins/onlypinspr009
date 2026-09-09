@@ -1,0 +1,7 @@
+# 온리핀스 — 컬쳐랜드 문화상품권 랜딩
+# 홍보 목적이므로 모든 검색엔진에 열어 둔다.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://onlypinspr009.chalia4065.workers.dev/sitemap.xml
